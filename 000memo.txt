@@ -1,0 +1,3 @@
+以下のchrome拡張のソースコード。
+
+  https://chrome.google.com/webstore/detail/copy-and-load-urls/npdmckgicicbinngmjampncpnnjdlkbk
